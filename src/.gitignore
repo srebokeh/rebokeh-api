@@ -48,9 +48,5 @@ coverage.xml
 # pipenv
 Pipfile.lock
 
-# Django migrations
-**/migrations/*
-!**/migrations/__init__.py
-
 # Jupyter Notebooks
 .ipynb_checkpoints/
